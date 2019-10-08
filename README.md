@@ -3,8 +3,11 @@
 The project involved implementation of neural networks for the task of Sentiment Analysis on the Rotten Tomatoes data set which consists of sentences classified as either positive or negative sentiment. A simple feed forward neural network using deep averaging and a recurrent neural network was implemented on PyTorch.
 
 Run the project:
+
 python3 sentiment.py --model FF
+
 Trains the feed forward neural network model
+
 FFNN(
   (input_layer): Linear(in_features=300, out_features=50, bias=True)
   (hidden_layer): Linear(in_features=50, out_features=50, bias=True)
