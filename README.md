@@ -5,6 +5,7 @@ The project involved implementation of neural networks for the task of Sentiment
 Run the project:
 
 FEED FORWARD NEURAL NETWORK
+
 python3 sentiment.py --model FF
 
 Trains the feed forward neural network model
